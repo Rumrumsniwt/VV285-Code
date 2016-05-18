@@ -1,0 +1,8 @@
+The source code of Vv285 slides (2014 version) uploaded on this repository are partly originated by the author (myself), and
+partly collected on the Internet. All the attached resources including pictures revoked in the code are collected on the Internet
+as well.
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+The visitors who tend to download the source code and other forms of resources must be aware of that: All content shall not be reproduced,
+copied,or used in other commercial ways without permission. Otherwise siwu320 will have the right to pursue legal responsibilities to
+those who break the rules.
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
